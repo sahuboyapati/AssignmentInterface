@@ -1,0 +1,7 @@
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day13\ConAssignmentInterface\ConAssignmentInterface\obj\Debug\ConAssignmentInterface.csproj.AssemblyReference.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day13\ConAssignmentInterface\ConAssignmentInterface\obj\Debug\ConAssignmentInterface.csproj.CoreCompileInputs.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day13\ConAssignmentInterface\ConAssignmentInterface\bin\Debug\ConAssignmentInterface.exe.config
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day13\ConAssignmentInterface\ConAssignmentInterface\bin\Debug\ConAssignmentInterface.exe
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day13\ConAssignmentInterface\ConAssignmentInterface\bin\Debug\ConAssignmentInterface.pdb
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day13\ConAssignmentInterface\ConAssignmentInterface\obj\Debug\ConAssignmentInterface.exe
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day13\ConAssignmentInterface\ConAssignmentInterface\obj\Debug\ConAssignmentInterface.pdb
